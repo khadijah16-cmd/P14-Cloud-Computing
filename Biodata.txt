@@ -1,2 +1,4 @@
 Nama   : Sri Khadijah Br Tarigan
 NIM    : 2201010155
+Matkul : Cloud Computing
+JamKul : Rabu, 19.5 wita
